@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgb(177, 255, 229);
+    font-family: Arial, sans-serif;
+    margin: 15;
+    padding: 5;
+}
+
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center; 
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 50px;
+}
+
+nav a {
+    color: #9bd0dd;
+    text-decoration: none;
+}
+
+/* Estilos para la sección de información personal */
+#informacion-personal {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#informacion-personal img {
+    max-width: 150px;
+    border-radius: 50%;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para las secciones de experiencia laboral y educación */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li h3 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+li p {
+    margin: 0;
+}
+
+/* Otros estilos personalizados aquí */
